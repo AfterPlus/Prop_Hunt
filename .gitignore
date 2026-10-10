@@ -1,0 +1,41 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.vs/
+.idea/
+.vscode/
+
+# Plugin generated files
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# Visual Studio / Rider
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.xcworkspace
+*.xcodeproj
+
+# Compiled / debug
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.o
+*.a
+*.dylib
+*.so
+
+# Misc
+*.log
+*.tmp
+.claude/
